@@ -134,10 +134,10 @@
 		B737893C1807616C0076A88C /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				CA30AFA5195B42F5008974BD /* Gameplay.h */,
-				CA30AFA6195B42F5008974BD /* Gameplay.m */,
 				B737893D1807617C0076A88C /* AppDelegate.h */,
 				B737893E1807617C0076A88C /* AppDelegate.m */,
+				CA30AFA5195B42F5008974BD /* Gameplay.h */,
+				CA30AFA6195B42F5008974BD /* Gameplay.m */,
 				B7378992180767190076A88C /* MainScene.h */,
 				B7378993180767190076A88C /* MainScene.m */,
 				CA30AF92195B2A92008974BD /* Penguin.h */,
