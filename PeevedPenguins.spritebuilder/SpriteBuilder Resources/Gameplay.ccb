@@ -129,14 +129,6 @@
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>limitEnabled</string>
-					<key>type</key>
-					<string>Check</string>
-					<key>value</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>name</key>
 					<string>limitMin</string>
 					<key>type</key>
 					<string>Degrees</string>
@@ -1917,7 +1909,7 @@
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
-			<real>128</real>
+			<real>144.56320190429688</real>
 			<key>sequenceId</key>
 			<integer>0</integer>
 			<key>soundChannel</key>
