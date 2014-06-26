@@ -1162,9 +1162,9 @@
 								<key>physicsBody</key>
 								<dict>
 									<key>affectedByGravity</key>
-									<false/>
+									<true/>
 									<key>allowsRotation</key>
-									<false/>
+									<true/>
 									<key>bodyShape</key>
 									<integer>1</integer>
 									<key>collisionCategories</key>
@@ -1174,7 +1174,7 @@
 									<key>collisionType</key>
 									<string></string>
 									<key>cornerRadius</key>
-									<real>16</real>
+									<real>8</real>
 									<key>density</key>
 									<real>1</real>
 									<key>dynamic</key>
