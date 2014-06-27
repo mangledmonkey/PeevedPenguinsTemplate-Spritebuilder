@@ -154,14 +154,6 @@
 						<false/>
 					</array>
 				</dict>
-				<dict>
-					<key>name</key>
-					<string>layoutType</string>
-					<key>type</key>
-					<string>Byte</string>
-					<key>value</key>
-					<integer>1</integer>
-				</dict>
 			</array>
 			<key>selected</key>
 			<true/>
