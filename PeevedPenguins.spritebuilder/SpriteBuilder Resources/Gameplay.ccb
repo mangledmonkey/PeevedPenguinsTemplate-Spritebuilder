@@ -1405,8 +1405,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>83</real>
-									<real>43</real>
+									<real>101</real>
+									<real>54</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1469,8 +1469,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>49</real>
-									<real>43</real>
+									<real>67</real>
+									<real>54</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1498,6 +1498,8 @@
 								<string>WaitingPenguins.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>UUID</key>
@@ -1531,8 +1533,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>16</real>
-									<real>43</real>
+									<real>34</real>
+									<real>54</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1560,6 +1562,8 @@
 								<string>WaitingPenguins.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
