@@ -94,11 +94,21 @@
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
-		<key>animation/120.png</key>
+		<key>animation/1.png</key>
+		<dict/>
+		<key>animation/103.png</key>
 		<dict>
 			<key>scaleFrom</key>
 			<integer>4</integer>
 		</dict>
+		<key>animation/120.png</key>
+		<dict/>
+		<key>animation/2.png</key>
+		<dict/>
+		<key>animation/3.png</key>
+		<dict/>
+		<key>animation/7.png</key>
+		<dict/>
 		<key>ccbResources</key>
 		<dict>
 			<key>previewFolderHidden</key>
