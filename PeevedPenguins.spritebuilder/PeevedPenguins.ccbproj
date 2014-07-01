@@ -97,10 +97,7 @@
 		<key>animation/1.png</key>
 		<dict/>
 		<key>animation/103.png</key>
-		<dict>
-			<key>scaleFrom</key>
-			<integer>4</integer>
-		</dict>
+		<dict/>
 		<key>animation/120.png</key>
 		<dict/>
 		<key>animation/2.png</key>
