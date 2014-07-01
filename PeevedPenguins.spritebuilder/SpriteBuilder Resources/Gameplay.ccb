@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>23</integer>
+	<integer>29</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -1373,7 +1373,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>20</integer>
+						<integer>26</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1403,8 +1403,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>12</real>
 									<real>38</real>
+									<real>45</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1435,7 +1435,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>21</integer>
+						<integer>27</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1465,8 +1465,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
+									<real>71</real>
 									<real>43</real>
-									<real>38</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1481,7 +1481,7 @@
 								<array>
 									<real>1</real>
 									<real>1</real>
-									<true/>
+									<false/>
 									<integer>0</integer>
 								</array>
 							</dict>
@@ -1497,7 +1497,7 @@
 					</dict>
 					<dict>
 						<key>UUID</key>
-						<integer>22</integer>
+						<integer>28</integer>
 						<key>baseClass</key>
 						<string>CCBFile</string>
 						<key>children</key>
@@ -1527,8 +1527,8 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>74</real>
-									<real>39</real>
+									<real>105</real>
+									<real>45</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1543,7 +1543,7 @@
 								<array>
 									<real>1</real>
 									<real>1</real>
-									<true/>
+									<false/>
 									<integer>0</integer>
 								</array>
 							</dict>
