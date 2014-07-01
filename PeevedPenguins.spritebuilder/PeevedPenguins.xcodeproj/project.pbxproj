@@ -39,6 +39,7 @@
 		CA30AF94195B2A92008974BD /* Penguin.m in Sources */ = {isa = PBXBuildFile; fileRef = CA30AF93195B2A92008974BD /* Penguin.m */; };
 		CA30AF9E195B2D24008974BD /* Seal.m in Sources */ = {isa = PBXBuildFile; fileRef = CA30AF9D195B2D24008974BD /* Seal.m */; };
 		CA30AFA7195B42F5008974BD /* Gameplay.m in Sources */ = {isa = PBXBuildFile; fileRef = CA30AFA6195B42F5008974BD /* Gameplay.m */; };
+		CA81B1C619626A1B00970507 /* WaitingPenguin.m in Sources */ = {isa = PBXBuildFile; fileRef = CA81B1C519626A1B00970507 /* WaitingPenguin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -99,6 +100,8 @@
 		CA30AF9D195B2D24008974BD /* Seal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Seal.m; sourceTree = "<group>"; };
 		CA30AFA5195B42F5008974BD /* Gameplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Gameplay.h; sourceTree = "<group>"; };
 		CA30AFA6195B42F5008974BD /* Gameplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Gameplay.m; sourceTree = "<group>"; };
+		CA81B1C419626A1B00970507 /* WaitingPenguin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WaitingPenguin.h; sourceTree = "<group>"; };
+		CA81B1C519626A1B00970507 /* WaitingPenguin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WaitingPenguin.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +141,8 @@
 				B737893E1807617C0076A88C /* AppDelegate.m */,
 				CA30AFA5195B42F5008974BD /* Gameplay.h */,
 				CA30AFA6195B42F5008974BD /* Gameplay.m */,
+				CA81B1C419626A1B00970507 /* WaitingPenguin.h */,
+				CA81B1C519626A1B00970507 /* WaitingPenguin.m */,
 				B7378992180767190076A88C /* MainScene.h */,
 				B7378993180767190076A88C /* MainScene.m */,
 				CA30AF92195B2A92008974BD /* Penguin.h */,
@@ -357,6 +362,7 @@
 			files = (
 				CA30AF9E195B2D24008974BD /* Seal.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
+				CA81B1C619626A1B00970507 /* WaitingPenguin.m in Sources */,
 				B7378994180767190076A88C /* MainScene.m in Sources */,
 				CA30AF94195B2A92008974BD /* Penguin.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
